@@ -11,4 +11,3 @@ Deux boutons sont également présent :
 
 De plus dans la classe Constants vous pouvez définir les différentes constantes utiles pour la simulation. À savoir : la taille de l'espace de jeu, le nombre de pigeons, la vitesse des pigeons, le nombre initial de nourritures sur le plateau, etc...
 
-Lien git : https://github.com/QuentinKlebaur/tp2_1/
